@@ -58,7 +58,7 @@ namespace LogsAnalyzer.BLL.Tests.Detectors
 
         [TestCase(1)]
         [TestCase(4)]
-        public void Detect_ProvideEventWithDurationThatDoesntExceedMaximum_ShouldReturnEventThatDoesntExceedMaximum(int eventDuration)
+        public void Detect_ProvideEventWithDurationThatDoesntExceedMaximum_ShouldReturnEmptyList(int eventDuration)
         {
             //Arrange
 

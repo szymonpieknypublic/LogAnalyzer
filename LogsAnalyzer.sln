@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogsAnalyzer.DAL", "LogsAna
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogsAnalyzer.BLL", "LogsAnalyzer.BLL\LogsAnalyzer.BLL.csproj", "{90A0C4D8-E27B-4975-94B9-921D0A683EE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogsAnalyzer.BLL.Tests", "LogsAnalyzer.Tests\LogsAnalyzer.BLL.Tests.csproj", "{833B5B7F-C87A-4579-A35F-87F18654F528}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogsAnalyzer.BLL.Tests", "LogsAnalyzer.BLL.Tests\LogsAnalyzer.BLL.Tests.csproj", "{833B5B7F-C87A-4579-A35F-87F18654F528}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
